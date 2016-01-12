@@ -1,0 +1,8 @@
+[package]
+name = "grpcdemo2rust"
+version = "0.1.0"
+authors = ["Ivan Kruglov <ivan.kruglov@yahoo.com>"]
+
+[dependencies]
+hyper = "*"
+protobuf = "*"
